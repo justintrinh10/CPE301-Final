@@ -45,19 +45,14 @@ The cooler implements the required state machine:
 \- ERROR: Red LED on, fan off, requires reset when water returns to safe level
 
 **Circuit Diagram**  
-![screenshot](Image/Circuit 1.png)
-![screenshot](Image/Circuit 2.png)
-![screenshot](Image/Circuit 3.png)
+![screenshot](Image/Code%201.png)
 
-![screenshot](Image/Circuit 4.png)
+![screenshot](Image/Code%202.png)
+
+![screenshot](Image/Code%203.png)
 
 **System Pictures**  
-![screenshot](Image/Code 1.png)
-
-![screenshot](Image/Code 2.png)
-
-![screenshot](Image/Code 3.png)
-
-**Demonstration Video**  
+**Demonstration Video**  **Demonstration Video**  
 Video link: (paste your YouTube or Google Drive link here)  
+
 
