@@ -50,6 +50,7 @@ The cooler implements the required state machine:
 ![screenshot](Image/Circuit 3.png)
 
 ![screenshot](Image/Circuit 4.png)
+
 **System Pictures**  
 ![screenshot](Image/Code 1.png)
 
@@ -59,3 +60,4 @@ The cooler implements the required state machine:
 
 **Demonstration Video**  
 Video link: (paste your YouTube or Google Drive link here)  
+
