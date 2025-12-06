@@ -6,6 +6,12 @@ Final Project for CPE 301 (Fall 2025\)
 
 Xuerou Cai, Shawn Meng, Jacklyn Trinh, Justin Trinh
 
+**Project Report**
+https://docs.google.com/document/d/18BJCppENVkjoaK0TNQgXLquhxX6P_CAwc9ietTV6z-A/edit?usp=sharing
+
+**Demo Video**
+https://youtu.be/t3BCde3PAho
+
 **Project Description**  
 This project is an evaporative cooling system (“swamp cooler”) built using the Arduino Mega 2560\.    
 The system monitors water level, air temperature, and humidity, displays data on an LCD screen,    
@@ -62,9 +68,6 @@ The cooler implements the required state machine:
 
 ![screenshot](Image/Code%203.png)
 
-
-**Demonstration Video**  **Demonstration Video**  
-Video link: https://youtu.be/t3BCde3PAho
 
 
 
